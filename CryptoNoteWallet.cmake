@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "Mashcoin")
+set(CN_CURRENCY_DISPLAY_NAME "mashcoin")
+set(CN_CURRENCY_TICKER "MAS")
